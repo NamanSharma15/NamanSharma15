@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naman Sharma</h1>
+![Header](./your-header-image-name.png)
 <h3 align="center">I am a Full Stack Web and Android Developer with some experience in ML/AI</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namansharma15" alt="namansharma15" /></a> </p>
