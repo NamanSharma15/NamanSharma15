@@ -1,5 +1,6 @@
 ![Header](./github-header-image.png)
 <h3 align="center">I am a Full Stack Web and Android Developer with some experience in ML/AI</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=namansharma15 alt=namansharma15/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namansharma15" alt="namansharma15" /></a> </p>
 
@@ -8,6 +9,8 @@
 - 🌱 I’m currently learning **Rust, Golang**
 
 - 📫 How to reach me **ns9650855@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
