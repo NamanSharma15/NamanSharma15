@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <h3 align="center">I am a Full Stack Web and Android Developer with some experience in ML/AI</h3>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/namansh44455827?logo=twitter&style=for-the-badge" alt="namansh44455827" /></a> </p>
+<p align="left"> <a href="https://github.com/" target="blank"><img src="https://img.shields.io/twitter/follow/namansharma15?logo=github&style=for-the-badge" alt="namansharma15" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namansharma15" alt="namansharma15" /></a> </p>
 
